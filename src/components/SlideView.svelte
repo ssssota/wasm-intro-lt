@@ -69,9 +69,9 @@
   }
 
   .slide {
-    --background-color: rgb(31, 53, 53);
-    --font-color: #f9ffff;
-    --link-color: rgb(255, 209, 123);
+    --background-color: rgb(255, 161, 216);
+    --font-color: #461d0a;
+    --link-color: rgb(51, 84, 155);
 
     --slide-width: min(100vw, calc(400vh / 3));
     --slide-height: min(75vw, 100vh);
