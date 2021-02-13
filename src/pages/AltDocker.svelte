@@ -24,6 +24,7 @@
   }
   .img-wrapper img {
     width: 50%;
+    filter: invert(1);
   }
   small {
     font-size: calc(var(--slide-width) / 50);

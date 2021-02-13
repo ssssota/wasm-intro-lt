@@ -23,5 +23,6 @@ import PaddingPane from "../components/PaddingPane.svelte";
   }
   .img-wrapper img {
     width: 50%;
+    filter: invert(1);
   }
 </style>
